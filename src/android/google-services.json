@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "687710497614",
+    "firebase_url": "https://sizegroupnotifications.firebaseio.com",
+    "project_id": "sizegroupnotifications",
+    "storage_bucket": "sizegroupnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687710497614:android:3c51c11d66a2be44",
+        "android_client_info": {
+          "package_name": "com.entlq.sizegroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687710497614-kmos502nq3ef3sfasm6962bf6eq29442.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pzg0oNMhqRJGPasV16KvOVfgbxjKWAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
